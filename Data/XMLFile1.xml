@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Appointments>
+  <!-- Example of stored data
+    <Appointment>
+        <AppointmentID>1</AppointmentID>
+        <Name>John Doe</Name>
+        <Age>30</Age>
+        <AppointmentType>Cleaning</AppointmentType>
+        <DayOfAppointment>Monday</DayOfAppointment>
+        <TimeOfAppointment>9:00 am</TimeOfAppointment>
+    </Appointment>
+    -->
+  <Appointment>
+    <AppointmentID>1</AppointmentID>
+    <Name>Akash</Name>
+    <Age>25</Age>
+    <AppointmentType>General Checkup</AppointmentType>
+    <DayOfAppointment>Thursday</DayOfAppointment>
+    <TimeOfAppointment>5:00 pm</TimeOfAppointment>
+  </Appointment>
+  <Appointment>
+    <AppointmentID>2</AppointmentID>
+    <Name>Sai</Name>
+    <Age>24</Age>
+    <AppointmentType>Surgery</AppointmentType>
+    <DayOfAppointment>Wednesday</DayOfAppointment>
+    <TimeOfAppointment>5:00 pm</TimeOfAppointment>
+  </Appointment>
+  <Appointment>
+    <AppointmentID>3</AppointmentID>
+    <Name>mohan</Name>
+    <Age>23</Age>
+    <AppointmentType>General Checkup</AppointmentType>
+    <DayOfAppointment>Tuesday</DayOfAppointment>
+    <TimeOfAppointment>12:00 pm</TimeOfAppointment>
+  </Appointment>
+  <Appointment>
+    <AppointmentID>4</AppointmentID>
+    <Name>Ravi Teja</Name>
+    <Age>25</Age>
+    <AppointmentType>Cleaning</AppointmentType>
+    <DayOfAppointment>Tuesday</DayOfAppointment>
+    <TimeOfAppointment>12:00 pm</TimeOfAppointment>
+  </Appointment>
+</Appointments>
